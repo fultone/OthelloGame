@@ -1,0 +1,85 @@
+.button{
+       -fx-background-color: #6DBC8D;
+       -fx-border-color: gray;
+       -fx-border-radius: 0;
+       -fx-padding: 3 6 6 6;
+       -fx-min-width: 50px;
+       -fx-max-width: 50px;
+       -fx-min-height: 50px;
+       -fx-max-height: 50px;
+}
+
+.whiteTile{
+       -fx-background-color: white;
+}
+
+.blackTile{
+    -fx-background-color: black;
+}
+
+.blueTile{
+    -fx-background-color: #2DE9F8;
+}
+
+.yellowTile{
+     -fx-background-color: #F8ED68;
+}
+
+.redTile{
+     -fx-background-color: #C34430;
+}
+
+.purpleTile{
+    -fx-background-color: #A65A9E
+}
+
+.mintgreenBoard{
+     -fx-background-color: #6DBC8D;
+}
+
+.lightblueBoard{
+    -fx-background-color: #B1F2F8;
+}
+
+.lightgrayBoard{
+    -fx-background-color: #D8D8D8;
+}
+
+.root{
+    -fx-background-color: #E6E7E6;
+}
+
+.winner{
+    -fx-font-size: 15px;
+}
+
+.playButton{
+    -fx-font-size: 14px;
+    -fx-min-width: 100px;
+    -fx-max-width: 100px;
+    -fx-min-height: 35px;
+    -fx-max-height: 35px;
+    -fx-border-radius: 8px;
+    -fx-text-fill: white;
+    -fx-background-color: #4885ed;
+    -fx-padding: 3 20 3 20;
+
+}
+
+.playGameButton{
+    -fx-font-size: 15px;
+    -fx-min-width: 150px;
+    -fx-max-width: 150px;
+    -fx-min-height: 40px;
+    -fx-max-height: 40px;
+    -fx-border-radius: 8px;
+    -fx-text-fill: white;
+    -fx-background-color: #4885ed;
+    -fx-padding: 3 20 3 20;
+}
+
+.endGameButton{
+    -fx-background-color: #db3236;
+}
+
+
